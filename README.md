@@ -1,5 +1,5 @@
 # thinkful-git-ws
-For Thinkful New Jersey's Git &amp; GitHub Workshop
+For Thinkful Sean's Git &amp; GitHub Workshop
 
 Git is a version-control system that tracks changes made to files and allows for easier collaboration among multiple people
 hello world
@@ -18,7 +18,7 @@ hello world
   * Status - shows us which files we have changed in our repo, and which files we are currently tracking
   * Add - add files to the staging area
     * Which files do we want to include in our next commit?
-  * Commit - saving a snapshot of our recently changed files
+  * Commit - saving a snapshot of our recently changed fgit iles
     * Commit often and frequently
       * Usually want to commit whenever we’ve made an incremental change or improvement to one or more files
       * Infrequent commits can make it difficult to know where exactly our project broke / what needs to be corrected
